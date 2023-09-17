@@ -1,0 +1,20 @@
+.First_Block{
+    height: 400px;
+    background-color: lightblue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-aFBkIcQoFD927BQE5ff9FuhoctJnwxDw3A&usqp=CAU);
+    background-repeat: repeat-y;
+    background-position: unset;
+}
+.Second_Block{
+    height: 400px;
+    background-color: darksalmon;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5y8TMWuz4pwTXHKNCJpKpTowipq9zeNkiVw&usqp=CAU);
+    background-size: cover;
+}
+.Third_Block{
+    height: 400px;
+    background-color: darkseagreen;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3CL5_dA86RjfQQVOlL-6WZj8tFVXGN1WGw&usqp=CAU);
+    background-repeat: no-repeat;
+    background position: ;
+}
